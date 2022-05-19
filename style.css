@@ -46,3 +46,31 @@
     clip-path: circle();
     margin-top: 30px;
 }
+
+.profile-box button {
+    background: white;
+    color: #ff574a;
+    border: none;
+    outline: none;
+    box-shadow: 0 5px 10px rgba(red, green, blue, alpha);
+    padding: 8px 35px;
+    border-radius: 30px;
+    cursor: pointer;
+    margin-bottom: 2rem;
+    margin-top: 1.2rem;
+}
+
+.profile-box button:hover {
+    background: black;
+}
+
+.social-media img {
+    width: 20px;
+    margin: 30px 5px;
+    cursor: pointer;
+}
+
+.copy-bottom {
+    margin-top: 1rem;
+    text-transform: lowercase;
+}
