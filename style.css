@@ -66,12 +66,6 @@
     background: black;
 }
 
-.social-media img {
-    width: 25px;
-    margin: 20px 3px;
-    cursor: pointer;
-}
-
 .copy-bottom {
     margin-top: 1rem;
     text-transform: lowercase;
@@ -83,4 +77,14 @@
 
 .setings-icon:hover {
     background: #fff;
+}
+
+.fa {
+    color: black;
+    position: relative;
+    display: horizintal;
+    margin-left: 2px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 25px;
 }
