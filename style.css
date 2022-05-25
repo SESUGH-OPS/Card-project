@@ -19,7 +19,7 @@
 .profile-box {
     text-align: center;
     background: #ff574a;
-    padding: 40px 90px;
+    padding: 30px 50px;
     border-radius: 25px;
     color: #fff;
     position: relative;
@@ -69,6 +69,7 @@
 .copy-bottom {
     margin-top: 1rem;
     text-transform: lowercase;
+    font-size: 20px;
 }
 
 .menu-icon:hover {
@@ -92,4 +93,9 @@
 
 .fa-brands:hover {
     transform: translate(0, -5px);
+}
+
+.marque {
+    text-align: center;
+    position: relative;
 }
